@@ -40,9 +40,14 @@
 			<scope>test</scope>
 		</dependency>-->
 
-		<dependency>
+		<!--<dependency>
 			<groupId>prx.sunx.demo</groupId>
 			<artifactId>prx-sunx-demo-dubbo-provider</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>-->
+		<dependency>
+			<groupId>prx.sunx.demo</groupId>
+			<artifactId>prx-sunx-demo-dubbo-api</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
